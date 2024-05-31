@@ -1,0 +1,4 @@
+Day 9 Report:
+Gold: 41 kg
+Wood: 34 cubic meters
+Grain: 5 kg

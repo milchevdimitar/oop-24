@@ -1,0 +1,4 @@
+Day 10 Report:
+Gold: 43 kg
+Wood: 39 cubic meters
+Grain: 8 kg

@@ -1,0 +1,4 @@
+Day 8 Report:
+Gold: 39 kg
+Wood: 29 cubic meters
+Grain: 2 kg
